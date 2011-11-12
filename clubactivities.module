@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Clubactivities feature.
+ */
+
+include_once('clubactivities.features.inc');
